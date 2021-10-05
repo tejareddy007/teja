@@ -1,0 +1,353 @@
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop (master)
+$ mkdir tejapro
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop (master)
+$ cd tejapro
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ echo "this is 1st project">file.txt
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ cat file.txt
+this is 1st project
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git add
+Nothing specified, nothing added.
+hint: Maybe you wanted to say 'git add .'?
+hint: Turn this message off by running
+hint: "git config advice.addEmptyPathspec false"
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git add .
+warning: LF will be replaced by CRLF in tejapro/file.txt.
+The file will have its original line endings in your working directory
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git add --all
+warning: LF will be replaced by CRLF in hariproject/file1.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/analytics.js.download.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/combined.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/cookieconsent.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/gpt.js.download.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/jstz.min.js.download.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/pubads_impl_2021022401.js.download.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/recaptcha__en.js.download.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/saved_resource.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/theme.min.css.
+The file will have its original line endings in your working directory
+
+
+
+
+
+
+gdsygidg
+
+dwarning: LF will be replaced by CRLF in file1.txt.
+The file will have its original line endings in your working directory
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ gdsygidg
+bash: gdsygidg: command not found
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git done
+git: 'done' is not a git command. See 'git --help'.
+
+The most similar command is
+        clone
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git commit -m "added files"
+[master 58bd5dc] added files
+ 117 files changed, 1946 insertions(+)
+ create mode 100644 2 564.py
+ create mode 100644 538/538.png
+ create mode 100644 564.py
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro.html
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/06ww2tnDp8kQuuPxmsCB7LGd87Kv9AorSl6Oh81g.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/27909784
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/2jBoxXkpYuxDcweGL3FfjHu3rlPOXjuinGOqwxi6.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/3H8Jlwz5Ujx2Zyhu6NkjmkNAVFC3S2QLZRJpFR2k.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/3SeRoRLHpu6vveumB4bG7hsTEhyIvlwznikipB36.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/6ILW5l3cJbunDa4PoZbp3xVLI1FLVCICfs5xCLVZ.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/90BQU7MMFjti8klCnJZ647j4eZT7jMPHKWQXIHVL.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/9YxJq7WPT098fZD92UDEWmuFLAz5y4ZC1NoSx1Rz.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/CgR0cNLK77aJYQHyxQYBKNy1mUv1FN5vBEeGCerZ.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/NyJ4zSCkkRu7x2IlvNeDpu9ea4Q7cWDxoB5vLJHk.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/OLS3n8S30SLUxjlxdmIhd0bHnTc2q12Cy0gudkcU.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/Qxqv1yXm9DdmwS11frqfVthgmSvGCBTwjf7YQ4kw.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/ShrGn4Zdt1uUxAL8ZBEIBdJaB6IFem1fUNgZ9LAI.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/SvLB5BXov5XetOnLrtxVrIATj7EQfRs4I57dOF74.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/TLggSHwW8PeLlibR9ymugMO11UslVUO78y1UocLk.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/TVtSlJ0xCOT0TrjQCxdlznSErV7s8ip5D1uQaO29.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/WAhryqsvfDeEeyrO2eKIfIvca4C3hSTrSzWXmTFW.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/WitjfC5YAtUEgQgMiMKCGRXekO9ev4yz8t4v2BQ6.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/XfrXwxxdZUV66PCQdcFLDMkxRw58i6fLGrjjNbcV.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/YtSvQAUsD1dBSVnmfxBtEcJ0Z524ya6SqGlTYJk9.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/analytics.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/api.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/bTyR2iOeEwWRqxaKg5KR00sANOT3M8VlKAzkiprJ.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/combined.min.css
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/cookieconsent.min.css
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/cookieconsent.min.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/diy-footer-logo.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/enQJDliDCgv2xJmr7shjwiIPJwFAoxFZTBdtBxeV.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/eo5qIe1e8dysGq2VnC9w3V8pdkrdhC9ZtEWNy9jU.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/fZHiKDkI6X950pnqyFDNLUuVvXnCGE3W2LqLjN3w.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/fifty.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/fonts.min.css
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/forty.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/gVDvnvrg4mkmFfoOwfKi5S5QaOo6g71LfokySbUf.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/gpt.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/icon-down.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/init.min.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/jlGdToM7oF2WR26mzGKiZkNhcv7qtF2FNMFqlcOC.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/js
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/jstz.min.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/kRl3J9prsTdwSLbn0a3Ib0PQ5bO2fQRXZN7Aqs4B.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/logo-makerpro.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/luK9JVKrf3R1XuITXZRLY8nbBGwd0zHEFxsikDC7.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/o7vaPjxv4vgGc2bcNxt2eEOTGK30D1fh1viuAFrD.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/onehun.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/pWIgW4dtCD3Q4LGDzzL9zfZscTJRsiL3oXpstUn4.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/page.min.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/prJNJytDTPW4yJght5A8845ZgfshlOXQHTZDCFPg.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/pubads_impl_2021022401.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/r3Jci3ZGSACziRezSh8vmHiATZ5rFqY8CtOcM4Aj.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/rYXwfkjzSMxuSpV8CeNvMze4kqJNIpw1QVcOT6eY.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/recaptcha__en.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/saved_resource.html
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/sjd0uiwxWuoWOMsDF9UMO8b5OyUxdsC8aZLx4nHa.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/sqBWsHcwu0qZ30FNsfqOb3SabrqrdXEts53YEBXs.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/theme.min.css
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/theme.min.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/vDDbslTDGt8itE6C6f8K3X8FPFQenq5iOl1ZfW8z.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/welcome-bg.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/welcomeAd.min.js.download
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/x6kPLV1X082T8Ndad9HXUcoUTfHqh3ZwdJeNMOWN.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/x87NGMWw1Cx4b9pqDueExq1BCGRep9qhHTtTIKbF.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/xQ2pP99oGhjN1fisLfllUSp3BYFne9Gt1hdBAvMX.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/zY0aprEyMtOxLhiyyRKWvY3vwB9cPJJQtxubemw6.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/zYTWmQmaCRIQVP81pRAyGpsQMlODoWfAiBmhGGfx.webp
+ create mode 100644 Basic Linux Commands for Beginners _ Linux _ Maker Pro_files/zxcvbn.js.download
+ create mode 100644 Bentley STAAD Pro V8i (SELECTSeries 6) 20.07.11.45 Multilanguage + Patch - softasm.com/Download Free Software Full Version - All Categories.URL
+ create mode 100644 Bentley STAAD Pro V8i (SELECTSeries 6) 20.07.11.45 Multilanguage + Patch - softasm.com/How To Install - Patch.txt
+ create mode 100644 Bentley STAAD Pro V8i (SELECTSeries 6) 20.07.11.45 Multilanguage + Patch - softasm.com/desktop.ini
+ create mode 100644 Bentley STAAD Pro V8i (SELECTSeries 6) 20.07.11.45 Multilanguage + Patch - softasm.com/stpst20071145en.exe
+ create mode 100644 D.jpg
+ create mode 100644 Google Chrome.lnk
+ create mode 100644 New Microsoft Office Excel Worksheet (2).xlsx
+ create mode 100644 New Microsoft Office Excel Worksheet.xlsx
+ create mode 100644 REVATHI.pdf
+ create mode 100644 WT Lab/CSE-revised syllabus-updated on 20-07-2017.pdf
+ create mode 100644 WT Lab/Web Technology Lab Manual-2.pdf
+ create mode 100644 WT Lab/bookstore/Book.html
+ create mode 100644 WT Lab/bookstore/Diet.jpg
+ create mode 100644 WT Lab/bookstore/authentication.php
+ create mode 100644 WT Lab/bookstore/bookstore.html
+ create mode 100644 WT Lab/bookstore/connection.php
+ create mode 100644 WT Lab/bookstore/index.html
+ create mode 100644 WT Lab/bookstore/insert.php
+ create mode 100644 WT Lab/bookstore/leftframe.html
+ create mode 100644 WT Lab/bookstore/login.html
+ create mode 100644 WT Lab/bookstore/myStyle.css
+ create mode 100644 WT Lab/bookstore/register_demo.html
+ create mode 100644 WT Lab/bookstore/rightframe.html
+ create mode 100644 WT Lab/bookstore/style.css
+ create mode 100644 WT Lab/bookstore/topframe.html
+ create mode 100644 WT Lab/diet.jpg
+ create mode 100644 WT Lab/download.jpg
+ create mode 100644 WT Lab/frame.html
+ create mode 100644 WT Lab/frame1.html
+ create mode 100644 WT Lab/frame2.html
+ create mode 100644 WT Lab/frame3.html
+ create mode 100644 WT Lab/frame4.html
+ create mode 100644 WT Lab/image2.jpg
+ create mode 100644 WT Lab/image3.jpg
+ create mode 100644 WT Lab/pic.jpg
+ create mode 100644 WT Lab/xampp-windows-x64-7.4.12-0-VC15-installer.exe
+ create mode 100644 aa.jpg
+ create mode 100644 aaa.jpg
+ create mode 100644 aaaa.jpg
+ create mode 100644 desktop.ini
+ create mode 100644 file1.txt
+ create mode 100644 frame2.html
+ create mode 100644 hariproject/file2.txt
+ create mode 100644 images.jpg
+ create mode 100644 tejapro/file.txt
+ create mode 100644 trinadh.pdf
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git branch
+* master
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git remote
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git init
+Initialized empty Git repository in C:/Users/Student/Desktop/tejapro/.git/
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git clone
+fatal: You must specify a repository to clone.
+
+usage: git clone [<options>] [--] <repo> [<dir>]
+
+    -v, --verbose         be more verbose
+    -q, --quiet           be more quiet
+    --progress            force progress reporting
+    -n, --no-checkout     don't create a checkout
+    --bare                create a bare repository
+    --mirror              create a mirror repository (implies bare)
+    -l, --local           to clone from a local repository
+    --no-hardlinks        don't use local hardlinks, always copy
+    -s, --shared          setup as shared repository
+    --recurse-submodules[=<pathspec>]
+                          initialize submodules in the clone
+    --recursive ...       alias of --recurse-submodules
+    -j, --jobs <n>        number of submodules cloned in parallel
+    --template <template-directory>
+                          directory from which templates will be used
+    --reference <repo>    reference repository
+    --reference-if-able <repo>
+                          reference repository
+    --dissociate          use --reference only while cloning
+    -o, --origin <name>   use <name> instead of 'origin' to track upstream
+    -b, --branch <branch>
+                          checkout <branch> instead of the remote's HEAD
+    -u, --upload-pack <path>
+                          path to git-upload-pack on the remote
+    --depth <depth>       create a shallow clone of that depth
+    --shallow-since <time>
+                          create a shallow clone since a specific time
+    --shallow-exclude <revision>
+                          deepen history of shallow clone, excluding rev
+    --single-branch       clone only one branch, HEAD or --branch
+    --no-tags             don't clone any tags, and make later fetches not to follow them
+    --shallow-submodules  any cloned submodules will be shallow
+    --separate-git-dir <gitdir>
+                          separate git dir from working tree
+    -c, --config <key=value>
+                          set config inside the new repository
+    --server-option <server-specific>
+                          option to transmit
+    -4, --ipv4            use IPv4 addresses only
+    -6, --ipv6            use IPv6 addresses only
+    --filter <args>       object filtering
+    --remote-submodules   any cloned submodules will use their remote-tracking branch
+    --sparse              initialize sparse-checkout file to include only files at root
+
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git remote
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git remote add origin https://github.com/tejareddy007/tejareddy007.git
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git remote
+origin
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git clone https://github.com/tejareddy007/teja.git
+Cloning into 'teja'...
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 4 (delta 0), reused 4 (delta 0), pack-reused 0
+Receiving objects: 100% (4/4), done.
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git clone https://github.com/tejareddy007/teja.git
+fatal: destination path 'teja' already exists and is not an empty directory.
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ ls
+file.txt  teja/
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git commit -m
+error: switch `m' requires a value
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git commit -m "added files"
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        file.txt
+        teja/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git add --a
+warning: LF will be replaced by CRLF in file.txt.
+The file will have its original line endings in your working directory
+warning: adding embedded git repository: teja
+hint: You've added another git repository inside your current repository.
+hint: Clones of the outer repository will not contain the contents of
+hint: the embedded repository and will not know how to obtain it.
+hint: If you meant to add a submodule, use:
+hint:
+hint:   git submodule add <url> teja
+hint:
+hint: If you added this path by mistake, you can remove it from the
+hint: index with:
+hint:
+hint:   git rm --cached teja
+hint:
+hint: See "git help submodule" for more information.
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git add --all
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$ git commit -m "added files"
+[master (root-commit) 6d00500] added files
+ 2 files changed, 2 insertions(+)
+ create mode 100644 file.txt
+ create mode 160000 teja
+
+Student@DESKTOP-DOFVQH2 MINGW64 ~/Desktop/tejapro (master)
+$
