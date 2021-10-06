@@ -1,0 +1,16 @@
+.cardbody{
+    border: 2px solid rgb(55, 46, 139);
+    padding: 1%;
+    margin: 1%;
+    border-radius: 2%;
+    text-align: center;
+    font-size: 30px;
+    width: 30%;
+
+}
+.cardbody img{
+    width: 100%;
+    display: block;
+    /* margin-left: auto;
+    margin-right: auto; */
+}
